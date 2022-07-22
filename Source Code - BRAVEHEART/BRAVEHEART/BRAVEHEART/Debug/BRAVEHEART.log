@@ -1,0 +1,4 @@
+﻿  map_generation.cpp
+D:\Desktop\2645\Unit4\BRAVEHEART\BRAVEHEART\BRAVEHEART\map_generation.h(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“_layer_room”的左侧
+D:\Desktop\2645\Unit4\BRAVEHEART\BRAVEHEART\BRAVEHEART\map_generation.cpp(12,13): warning C4244: “=”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  BRAVEHEART.vcxproj -> D:\Desktop\2645\Unit4\BRAVEHEART\BRAVEHEART\Debug\BRAVEHEART.exe
